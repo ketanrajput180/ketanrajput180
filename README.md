@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">✨ Hello! I'm <span style="color:#FF5733"><b>Ketan</b></span> 👋</h1>
+<h1 align="center">✨ 𝐇𝐞𝐥𝐥𝐨! 𝐈'𝐦 <strong>𝐊𝐄𝐓𝐀𝐍</strong> 👋</h1>
 <h3 align="center">
   <i>💻 Full Stack Developer | 🚀 Passionate Problem Solver | 🌱 Always Learning</i>
 </h3>
